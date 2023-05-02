@@ -85,7 +85,7 @@ h1{
     background-color: rgb(206, 179, 144);
     transition: all 0.3s linear;
 }
-.change .switch {
+.change {
     left: 50% !important;
 
     

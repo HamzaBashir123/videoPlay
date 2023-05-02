@@ -9,7 +9,7 @@ window.addEventListener("load", ()=>{
 })
 
 console.log( switchBtn.classList)
-console.log( switchColor.classList)
+console.log( switchBtn.classList)
 switchBtn.addEventListener("click", ()=>{
     if(!switchColor.classList.contains("change")){
         switchColor.classList.add("change")
